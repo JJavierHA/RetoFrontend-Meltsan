@@ -1,4 +1,4 @@
-# Explorador de paises 📚
+# Explorador de paises 🌍
 Este proyecto es parte de *reto tecnico* propuesto, consiste en la elaboracion de un *aplicacion web* encargada de consumir el API *RestCountries* la cual a travez de distintas interfaces, permitira mostrara el contenido de la misma en un formato que sea comodo y atractiva para el usuario.
 
 ## Construido con 🛠️
