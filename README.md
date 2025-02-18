@@ -105,4 +105,4 @@ El proyecto consiste en la exposicion de algunos de los enpoind de la API Restco
 ## Elaborado por ️
 **Javier Herrera** - *Trabajo Inicial* - [JJavierHA](https://github.com/JJavierHA)
 
-Puedes descargar o ver la imagen del proyecto sin base de datos en mi repositorio de Docker Hub - [jjavierha](https://hub.docker.com/r/jjavierha/reto-frontend)
+Puedes descargar o ver la imagen del proyecto en mi repositorio de Docker Hub - [jjavierha](https://hub.docker.com/r/jjavierha/reto-frontend)
