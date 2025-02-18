@@ -1,0 +1,8 @@
+services:
+  reto-front:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4173:4173"
+    command: ["npm", "run", "preview"]
