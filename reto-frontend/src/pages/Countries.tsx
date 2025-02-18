@@ -64,7 +64,7 @@ function Countries({ filter, isFilterOptions, isGrid }: Props) {
 
   let totalPages = data?.total ? Math.ceil(data.total / pageSize) : 0; // Número total de páginas (puedes calcularlo con la longitud de los datos y el tamaño de la página)
 
-  const handleChange = (event: React.ChangeEvent<unknown>, value: number) => {
+  const handleChange = (_: React.ChangeEvent<unknown>, value: number) => {
     setPage(value - 1);
   };
 
